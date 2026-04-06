@@ -32,4 +32,8 @@ Espaço reservado para scripts SQL, modelagens e integrações com bancos de dad
 Documentação oficial, certificados e materiais de apoio do curso.
 
 ---
-*Organizado de forma acadêmica para facilitar a consulta e o estudo dos temas.*
+
+## 🧑‍💻 Autor
+
+**Erick Rocha Nascimento**  
+🔗 [LinkedIn](https://www.linkedin.com/in/erickrochanascimento) | [GitHub](https://github.com/ErickRochaNascimento)
