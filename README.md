@@ -2,8 +2,9 @@
 
 Repositório organizado por disciplinas e assuntos, consolidando projetos e atividades desenvolvidos no curso de **Desenvolvimento de Software Back-End em Javascript** do IFBA.
 
-## 🎓 Certificações
+## 🎓 Certificações e Resumo
 - [Certificado de Conclusão - Back-End em Javascript](./05-Certificacoes-e-Documentos/Certificado-BackEnd-JS-IFBA.pdf)
+- [**Resumo Detalhado do Curso e Matriz Curricular**](./RESUMO_DO_CURSO.md)
 
 ## 📂 Estrutura do Repositório
 
