@@ -8,3 +8,4 @@ Repositório organizado por disciplinas e projetos desenvolvidos no IFBA.
   - **Biblioteca-em-NodeJS**: Sistema de gerenciamento de biblioteca.
   - **AgendaC**: Sistema de agenda de contatos desenvolvido em JavaScript.
   - **AtividadesJSLacosRepeticao**: Exercícios de lógica de programação com laços de repetição em JavaScript.
+  - **Back-End_JavaScript**: Atividades focadas em Loops e Arrays.
